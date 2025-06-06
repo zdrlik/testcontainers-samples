@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/zdenekdrlik0323/193be29a-3de3-4d32-a2c5-fd02433bd638/bad52a22-3891-4501-a7a6-39cf17348b73/_apis/work/boardbadge/8c1e5191-d6e5-44ff-a875-4d9a0b736f23)](https://dev.azure.com/zdenekdrlik0323/193be29a-3de3-4d32-a2c5-fd02433bd638/_boards/board/t/bad52a22-3891-4501-a7a6-39cf17348b73/Microsoft.EpicCategory)
 # testcontainers-samples
